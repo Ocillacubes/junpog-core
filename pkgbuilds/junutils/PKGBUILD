@@ -4,5 +4,4 @@ pkgver=1.0
 pkgrel=1
 pkgdesc="(mostly) useful terminal utilities"
 arch=('x86_64')
-license=('GPL3')
 depends=('tree' 'htop' 'neofetch' 'ranger' 'lynx' 'neovim' 'newsboat')
