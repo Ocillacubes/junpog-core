@@ -1,0 +1,11 @@
+# Maintainer: Ocillacubes <squirtle1607@rollingoak.com>
+pkgname='junpog-crypt'
+pkgver=1.0
+pkgrel=1
+pkgdesc="packages for configuring arch to work with luks"
+arch=('x86_64')
+depends=('lvm2' 'cryptsetup' 'grub')
+
+package() {
+    
+}
